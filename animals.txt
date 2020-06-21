@@ -2,5 +2,5 @@ rabbit
 elephant
 tiger
 lion
-sambar
+sambar dosa
 chicken
